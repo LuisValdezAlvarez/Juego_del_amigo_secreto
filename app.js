@@ -1,7 +1,7 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
 let amigos = [] ;
-// Creamos la funcion para agregar lo nombre y validamos para que el campo no este vacio
+// Creamos la funcion para agregar el nombre y validamos para que el campo no este vacio
 function agregarAmigo(){
     let ingresaAmigo = document.getElementById("amigo").value.trim();
 
